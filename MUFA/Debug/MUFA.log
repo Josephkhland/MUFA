@@ -1,0 +1,12 @@
+﻿  MUFA.cpp
+c:\visual studio projects\mufa\mufa\mufa.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\visual studio projects\mufa\mufa\mufa.cpp(245): warning C4018: '<': signed/unsigned mismatch
+c:\visual studio projects\mufa\mufa\mufa.cpp(257): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\visual studio projects\mufa\mufa\mufa.cpp(318): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\visual studio projects\mufa\mufa\mufa.cpp(331): warning C4018: '<': signed/unsigned mismatch
+c:\visual studio projects\mufa\mufa\mufa.cpp(358): warning C4018: '<': signed/unsigned mismatch
+c:\visual studio projects\mufa\mufa\mufa.cpp(391): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\visual studio projects\mufa\mufa\mufa.cpp(404): warning C4018: '<': signed/unsigned mismatch
+c:\visual studio projects\mufa\mufa\mufa.cpp(427): warning C4018: '<': signed/unsigned mismatch
+c:\visual studio projects\mufa\mufa\mufa.cpp(446): warning C4018: '<': signed/unsigned mismatch
+  MUFA.vcxproj -> C:\VISUAL STUDIO PROJECTS\MUFA\Debug\MUFA.exe
